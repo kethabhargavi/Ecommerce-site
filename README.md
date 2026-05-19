@@ -1,7 +1,3 @@
-Your README is already strong for a portfolio project. Here’s a cleaner, more professional, ATS-friendly version you can directly use for your GitHub repository:
-
----
-
 # 🛒 E-Commerce Website
 
 A modern, responsive **E-Commerce web application** built using **React, Vite, and TailwindCSS**.
@@ -102,20 +98,13 @@ Add screenshots of:
 
 ---
 
-## 🌐 Live Demo
-
-* GitHub Repository: [Ecommerce-site GitHub Repository](https://github.com/kethabhargavi/Ecommerce-site?utm_source=chatgpt.com)
-* Portfolio GitHub: [Bhargavi Ketha GitHub Profile](https://github.com/kethabhargavi?utm_source=chatgpt.com)
-
----
-
 ## 👩‍💻 Author
 
 **Bhargavi Ketha**
 
 * 📧 Email: [kethabhargavi20@gmail.com](mailto:kethabhargavi20@gmail.com)
-* 💼 LinkedIn: [Bhargavi Ketha LinkedIn](https://www.linkedin.com/in/bhargavi-ketha-0aa9b8277/?utm_source=chatgpt.com)
-* 💻 GitHub: [Bhargavi Ketha GitHub](https://github.com/kethabhargavi?utm_source=chatgpt.com)
+* 💼 LinkedIn: [Bhargavi Ketha LinkedIn](https://www.linkedin.com/in/bhargavi-ketha-0aa9b8277/)
+* 💻 GitHub: [Bhargavi Ketha GitHub](https://github.com/kethabhargavi/)
 
 ---
 
