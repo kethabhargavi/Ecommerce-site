@@ -1,16 +1,125 @@
-# React + Vite
+# 🛒 E-Commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive **E-Commerce web application** built using **React, Vite, and TailwindCSS**.
+This project demonstrates a scalable frontend architecture for online shopping platforms with features like product browsing, cart management, search functionality, and checkout flow.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+* 🛍️ Product catalog with category filters
+* 🔍 Product search and responsive navigation
+* 🛒 Shopping cart with add/remove functionality
+* 💳 Checkout flow with order summary
+* 🎨 Modern UI/UX using TailwindCSS
+* ⚡ Fast performance with Vite hot reload
+* 📱 Fully responsive design for mobile, tablet, and desktop
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Frontend
+
+* ReactJS
+* JavaScript (ES6+)
+
+### Styling
+
+* TailwindCSS
+* PostCSS
+
+### Build Tool
+
+* Vite
+
+### Code Quality
+
+* ESLint
+
+### Package Manager
+
+* npm
+
+---
+
+## 📂 Project Structure
+
+```bash
+ecommerce-site/
+│── public/                 # Static assets
+│── src/
+│   ├── components/         # Reusable React components
+│   ├── pages/              # Website pages
+│   ├── App.jsx             # Main app component
+│   └── main.jsx            # Entry point
+│── index.html              # Main HTML file
+│── package.json            # Dependencies & scripts
+│── vite.config.js          # Vite configuration
+│── tailwind.config.js      # TailwindCSS configuration
+│── postcss.config.js       # PostCSS plugins
+│── eslint.config.js        # ESLint rules
+│── README.md
+```
+
+---
+
+## ⚡ Installation & Setup
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/kethabhargavi/Ecommerce-site.git
+cd Ecommerce-site
+npm install
+npm run dev
+```
+
+---
+
+## 🏗️ Production Build
+
+To create a production build:
+
+```bash
+npm run build
+```
+
+## Application Screenshots
+
+### Home Page
+![Home Page](images/1.png)
+
+### Product Listing
+![Products](images/3.png)
+
+### Shopping Cart
+![Aboutus](images/2.png)
+
+---
+
+## 👩‍💻 Author
+
+**Bhargavi Ketha**
+
+* 📧 Email: [kethabhargavi20@gmail.com](mailto:kethabhargavi20@gmail.com)
+* 💼 LinkedIn: [Bhargavi Ketha LinkedIn](https://www.linkedin.com/in/bhargavi-ketha-0aa9b8277/)
+* 💻 GitHub: [Bhargavi Ketha GitHub](https://github.com/kethabhargavi/)
+
+---
+
+## ⭐ Acknowledgements
+
+* Inspired by modern e-commerce platforms
+* Built with React + TailwindCSS + Vite for scalability and performance
+
+---
+
+## 📌 Future Improvements
+
+* 🔐 User authentication
+* ❤️ Wishlist functionality
+* 💳 Payment gateway integration
+* 📦 Order tracking system
+* 🌙 Dark mode support
+* 🧠 AI-based product recommendations
