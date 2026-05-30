@@ -93,7 +93,7 @@ npm run build
 ### Product Listing
 ![Products](images/3.png)
 
-### Shopping Cart
+### AboutUs
 ![Aboutus](images/2.png)
 
 ---
