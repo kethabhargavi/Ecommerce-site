@@ -84,6 +84,20 @@ To create a production build:
 ```bash
 npm run build
 ```
+
+## Application Screenshots
+
+### Home Page
+![Home Page](images/1.png)
+
+### Product Listing
+![Products](images/3.png)
+
+### Shopping Cart
+![Aboutus](images/2.png)
+
+---
+
 ## 👩‍💻 Author
 
 **Bhargavi Ketha**
